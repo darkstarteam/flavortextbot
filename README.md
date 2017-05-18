@@ -1,5 +1,6 @@
 # flavortextbot
-A simple Discord bot that pulls a random piece of flavortext from Dest
+[![Discord](https://discordapp.com/api/guilds/291320513802928128/widget.png)](https://discord.gg/HhcK9hj)
+A simple Discord bot that pulls a random piece of flavortext from Destiny
 
 # Installation
 The bot uses the discord.js nodejs module, so nodejs and npm is required to install and run the bot. We recommend running the bot on Ubuntu, as such the steps below are for Ubuntu, but it should be fairly easy to adapt these to another os like windows or another flavor of linux.
