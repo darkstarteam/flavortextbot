@@ -1,0 +1,18 @@
+{
+  "name": "FlavorTextBot",
+  "version": "0.1.2",
+  "description": "A simple Discord bot that pulls a random piece of flavortext from Destiny.",
+  "readme": "README.md",
+  "maintainers": ["Henry Stabell"],
+  "author": "The Antioxidants",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antioxidants/flavortextbot"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "npm": ""
+  },
+  "main": "main.js"
+}
