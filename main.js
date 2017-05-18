@@ -24,7 +24,7 @@ var url = "https://destinyflavortext.net/data/flavortext.json"
 // from Discord _after_ ready is emitted
 client.on('ready', () => {
   console.log('I am ready!');
-  client.user.setGame('Playing DestinyFlavorText.net');
+  client.user.setGame('DestinyFlavorText.net');
 });
 
 // Create an event listener for messages
