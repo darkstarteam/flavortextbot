@@ -1,5 +1,6 @@
 # flavortextbot
 [![Discord](https://discordapp.com/api/guilds/291320513802928128/widget.png)](https://discord.gg/HhcK9hj)
+
 A simple Discord bot that pulls a random piece of flavortext from Destiny
 
 # Installation
