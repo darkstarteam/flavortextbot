@@ -618,10 +618,9 @@ if (message.content === '!flavortext scout rifle') {
     // Inform the user to check his DM for help
     message.channel.send('A DM with help has been sent to ' + message.author)
     // Send a message with commands to the user in a DM
-    message.author.send('```The Destiny Flavor Text bot for Discord, is a small bot that can give you flavortext on weapons, armor and other items from Destiny. Here are the commands you can use: \n !flavortext: Will give you a random piece of flavortext from any item in the game \n !flavortext + weapon type: Will give you a random piece of flavortext from the specified weapon e.g !flavortext auto rifle will give you a random piece of flavortext from a random auto rifle. \n !flavortext artifact: will give you a random piece of flavortext from any non-class specific artifact. \n !flavortext ship: will give you a random piece of flavortext from a random ship. \n !flavortext sparrow: will give you a random piece of flavortext from a random sparrow. \n "!flavortext ghost: will give you a random piece of flavortext from a random ghost shell. \n !flavortext class + armor: will give you a random piece of armor from the specified class, e.g: !flavortext titan armor. \n !botstatus: will give you a status report on the bot itself.```')
+    message.author.send('```The Destiny Flavor Text bot for Discord, is a small bot that can give you flavortext on weapons, armor and other items from Destiny. Here are the commands you can use: \n !flavortext: Will give you a random piece of flavortext from any item in the game \n !flavortext + weapon type: Will give you a random piece of flavortext from the specified weapon e.g !flavortext auto rifle will give you a random piece of flavortext from a random auto rifle. \n !flavortext artifact: will give you a random piece of flavortext from any non-class specific artifact. \n !flavortext ship: will give you a random piece of flavortext from a random ship. \n !flavortext sparrow: will give you a random piece of flavortext from a random sparrow. \n !flavortext ghost: will give you a random piece of flavortext from a random ghost shell. \n !flavortext class + armor: will give you a random piece of armor from the specified class, e.g: !flavortext titan armor.```')
     
   };
-
 })
 
 if(AuthDetails.bot_token){
